@@ -1,3 +1,4 @@
+
 use std::{
     collections::{HashMap, HashSet},
     fs,
@@ -2296,7 +2297,6 @@ pub mod keys {
     pub const KEYS_DISPLAY_SETTINGS: &[&str] = &[
         OPTION_VIEW_ONLY,
         OPTION_SHOW_MONITORS_TOOLBAR,
-        OPTION_FLUTTER_REMOTE_MENUBAR_STATE
         OPTION_COLLAPSE_TOOLBAR,
         OPTION_SHOW_REMOTE_CURSOR,
         OPTION_FOLLOW_REMOTE_CURSOR,
